@@ -2,7 +2,7 @@
   "dependencies": {
     "chalk": "2.4.0",
     "lodash": "4.17.20",
-    "yarn": "1.19.0",
+    "yarn": "1.22.5",
     "got": "9.6.0"
   }
 }
