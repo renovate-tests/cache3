@@ -2,8 +2,8 @@
   "dependencies": {
     "chalk": "2.0.0",
     "yarn": "1.18.0",
-    "got": "10.0.0"
+    "got": "10.7.0"
   }, "devDependencies": {
-    "got": "10.0.0"
+    "got": "10.7.0"
   }
 }
