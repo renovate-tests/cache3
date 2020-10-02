@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "react": "16.0.0",
     "chalk": "2.0.0",
     "yarn": "1.18.0",
     "got": "10.7.0"
