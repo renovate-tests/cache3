@@ -1,3 +1,5 @@
 {
-  "dependencyDashboard": true
+  "dependencyDashboard": true,
+  "separateMultipleMajor": true,
+  "separateMinorPatch": true
 }
