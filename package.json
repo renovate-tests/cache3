@@ -4,7 +4,7 @@
     "react": "16.0.0",
     "left-pad": "1.0.0",
     "chalk": "2.0.0",
-    "yarn": "1.18.0",
+    "yarn": "1.22.10",
     "got": "10.7.0"
   }, "devDependencies": {
     "got": "10.7.0"
