@@ -1,4 +1,8 @@
 {
+  "extends": [
+    "github>renovatebot/presets-internal:node",
+    "github>renovatebot/presets-internal:enable/adoption-compatibility"
+  ],
   "dependencyDashboard": true,
   "separateMultipleMajor": true,
   "separateMinorPatch": true
